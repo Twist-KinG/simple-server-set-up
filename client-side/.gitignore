@@ -1,0 +1,71 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+
+# Optional cache directories
+.cache/
+.vite/
+.next/
+.nuxt/
+.svelte-kit/
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# TypeScript
+*.tsbuildinfo
+
+# Yarn / npm / pnpm lock files (optional, if you don't want them in git)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Coverage directory used by tools like jest
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Uploads (optional - comment out if you want them tracked)
+uploads/
+
+# Debug
+debug.log
